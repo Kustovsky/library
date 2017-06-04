@@ -1,0 +1,22 @@
+table{
+
+    background: whitesmoke;
+    border: solid;
+    border-width: thin;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    margin-top: 5%;
+    border: solid;
+    border-width: thin;
+    background: black;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+form{
+    background: whitesmoke;
+    margin-left: 20%;
+    margin-right: 20%;
+}
